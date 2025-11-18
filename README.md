@@ -52,7 +52,7 @@ pub fn create_vault(
 
 ### What it does for you
 
-Without `pinocchio-util`:
+Without `pinocchio-toolkit`:
 ```rust
 // 30+ lines of boilerplate:
 // - Get rent sysvar
