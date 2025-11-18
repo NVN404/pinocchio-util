@@ -24,7 +24,7 @@ pinocchio-pubkey = "0.3"
 
 ```rust
 use pinocchio::account_info::AccountInfo;
-use pinocchio_utils::create_pda_account;
+use pinocchio_toolkit::create_pda_account;
 
 // In your instruction handler:
 pub fn create_vault(
